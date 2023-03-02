@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node serer.js",
+    "start": "node server.js",
+    "intall": "npm install",
     "dev": "nodemon server.js"
   },
   "dependencies": {
